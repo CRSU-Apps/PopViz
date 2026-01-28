@@ -4,10 +4,10 @@ Title: Visualisation of Absolute Effects Within a Population
 Version: 1.0.0
 Authors@R: c(
     person("CRSU", role = "cre", email = "apps@crsu.org.uk"),
-    person("Nathan", "Green", role = "aut"),
-    person("Clareece", "Nevill", role = "aut"),
     person("Janion", "Nevill", role = "aut"),
-    person("Will", "Robinson", role = "aut")
+    person("Will", "Robinson", role = "aut"),
+    person("Nathan", "Green", role = "aut"),
+    person("Clareece", "Nevill", role = "aut")
     )
 Maintainer: CRSU <apps@crsu.org.uk>
 Description: Show abolsute effects of an intervention using coloured glyphs.
