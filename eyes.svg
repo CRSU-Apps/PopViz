@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="209.99998"
+   height="199.99998"
+   viewBox="0 0 55.562495 52.916663"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="eyes.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.16725765"
+     inkscape:cx="2047.7389"
+     inkscape:cy="744.36057"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-64.895864,-78.322756)">
+    <path
+       id="path1"
+       style="stroke-width:0.264581"
+       d="M 78.124999,78.322756 A 13.229135,26.458335 0 0 0 64.895864,104.78109 13.229135,26.458335 0 0 0 78.124999,131.23942 13.229135,26.458335 0 0 0 91.354132,104.78109 13.229135,26.458335 0 0 0 78.124999,78.322756 Z m -5.291654,21.166668 a 5.2916535,5.2916668 0 0 1 5.291654,5.291666 5.2916535,5.2916668 0 0 1 -5.291654,5.29167 5.2916535,5.2916668 0 0 1 -5.291655,-5.29167 5.2916535,5.2916668 0 0 1 5.291655,-5.291666 z" />
+    <path
+       id="path2"
+       style="stroke-width:0.264581"
+       d="m 107.22915,78.322756 a 13.229135,26.458335 0 0 0 -13.229172,26.458334 13.229135,26.458335 0 0 0 13.229172,26.45833 13.229135,26.458335 0 0 0 13.22921,-26.45833 13.229135,26.458335 0 0 0 -13.22921,-26.458334 z m -5.29168,21.166668 a 5.2916535,5.2916668 0 0 1 5.29168,5.291666 5.2916535,5.2916668 0 0 1 -5.29168,5.29167 5.2916535,5.2916668 0 0 1 -5.291667,-5.29167 5.2916535,5.2916668 0 0 1 5.291667,-5.291666 z" />
+  </g>
+</svg>
